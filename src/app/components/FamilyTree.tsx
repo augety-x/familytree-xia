@@ -138,7 +138,7 @@ const PersonCard = ({
 
             {/* Portrait hover popup */}
             {showPortrait && portraitUrl && (
-                <div className="absolute -top-2 right-0 translate-x-[calc(100%+8px)] z-50 bg-white rounded-lg shadow-xl border border-gray-200 p-2 animate-in fade-in duration-200">
+                <div className="absolute z-50 bg-white rounded-lg shadow-xl border border-gray-200 p-2 animate-in fade-in duration-200 bottom-full mb-2 left-1/2 -translate-x-1/2 md:bottom-auto md:-top-2 md:right-0 md:left-auto md:translate-x-[calc(100%+8px)]">
                     <img
                         src={portraitUrl}
                         alt={person.name}
@@ -170,7 +170,7 @@ const PersonCard = ({
                         {isOwner && onEdit && (
                             <button
                                 onClick={(e) => { e.stopPropagation(); onEdit(person); }}
-                                className="text-blue-400 hover:text-blue-600 opacity-0 group-hover:opacity-100 transition-all p-1 rounded-md hover:bg-blue-50"
+                                className="text-blue-400 hover:text-blue-600 transition-all p-1 rounded-md hover:bg-blue-50 md:opacity-0 md:group-hover:opacity-100"
                                 title="编辑我的信息"
                             >
                                 <PencilSquareIcon className="h-4 w-4" />
@@ -181,7 +181,7 @@ const PersonCard = ({
                                 e.stopPropagation();
                                 fileInputRef.current?.click();
                             }}
-                            className="text-gray-500 hover:text-blue-500 opacity-0 group-hover:opacity-100 transition-all p-1 rounded-md hover:bg-blue-50"
+                            className="text-gray-500 hover:text-blue-500 transition-all p-1 rounded-md hover:bg-blue-50 md:opacity-0 md:group-hover:opacity-100"
                             title="上传照片"
                         >
                             {uploading ? (
@@ -197,10 +197,11 @@ const PersonCard = ({
                             className="hidden"
                             onChange={handleUpload}
                         />
-                        <div className="text-gray-400">
-                            {expanded ? 
-                                <ChevronUpIcon className="h-5 w-5" /> : 
-                                <ChevronDownIcon className="h-5 w-5" />
+                        <div className="flex items-center gap-1 text-gray-500 text-xs bg-gray-50 hover:bg-blue-50 border border-gray-200 rounded-md px-2 py-1 transition-colors select-none">
+                            <span>{expanded ? '收起' : '简介'}</span>
+                            {expanded ?
+                                <ChevronUpIcon className="h-3.5 w-3.5" /> :
+                                <ChevronDownIcon className="h-3.5 w-3.5" />
                             }
                         </div>
                     </div>
