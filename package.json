@@ -10,15 +10,17 @@
     "init-config": "node src/scripts/exportManualData.js"
   },
   "dependencies": {
+    "@dagrejs/dagre": "^2.0.4",
     "@heroicons/react": "^2.2.0",
+    "@xyflow/react": "^12.10.1",
     "next": "15.2.2",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "reactflow": "^11.11.4"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
+    "@types/dagre": "^0.7.53",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",

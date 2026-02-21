@@ -1,0 +1,690 @@
+{
+  "meta": {
+    "title": "会稽郡夏氏宗谱（三房）",
+    "subtitle": "三房世系图",
+    "branch": "三房（斌三公支系）",
+    "revision": "公元一九九七年岁次丁丑重修",
+    "location": "瑞安市平阳坑镇南山路林宝庄梓辑",
+    "generationNames": "斌、仲、得、文、如、祖、靖、季、道、德、守、志、仁、义、维、时、忠、信、光、元、盛、世"
+  },
+  "generations": [
+    {
+      "title": "第1世",
+      "people": [
+        {
+          "id": "sf-gen01-wanjiu",
+          "name": "万九",
+          "info": "始祖，龟四公四子。字景胜，名月和。赘娶萧氏。来绍兴会稽横路，生六人十六大义。公墓萧氏横路大坪后。",
+          "fatherId": null,
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第2世",
+      "people": [
+        {
+          "id": "sf-gen02-binyi",
+          "name": "斌一",
+          "info": "万九公之子。",
+          "fatherId": "sf-gen01-wanjiu",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen02-binsan",
+          "name": "斌三",
+          "info": "万九公之子。娶李氏，生二子。靖积萧义路邑一都。",
+          "fatherId": "sf-gen01-wanjiu",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen02-biner",
+          "name": "斌二",
+          "info": "万九公之子。娶氏，生三子。",
+          "fatherId": "sf-gen01-wanjiu",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第3世",
+      "people": [
+        {
+          "id": "sf-gen03-zhongsi",
+          "name": "仲四",
+          "info": "斌三公之子。娶红氏，生二子。二女红氏演厚坑。徐荫仪路行后。",
+          "fatherId": "sf-gen02-binsan",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen03-zhongwu",
+          "name": "仲五",
+          "info": "斌四公之子。坟葬仪路行后。",
+          "fatherId": "sf-gen02-binsan",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第4世",
+      "people": [
+        {
+          "id": "sf-gen04-deji",
+          "name": "得寄",
+          "info": "仲五公之子。名寄宗，娶汤氏，生三子。坟葬汤路后祖坟下。",
+          "fatherId": "sf-gen03-zhongsi",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen04-dezong",
+          "name": "得宗",
+          "info": "仲四公之子。娶红氏，生三子。塘仪路祖拔尤。",
+          "fatherId": "sf-gen03-zhongsi",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第5世",
+      "people": [
+        {
+          "id": "sf-gen05-wenzheng",
+          "name": "文正",
+          "info": "得寄公之子。",
+          "fatherId": "sf-gen04-deji",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen05-wenying",
+          "name": "文英",
+          "info": "得寄公之子。娶江氏，生五子。公享寿九十岁。葬徐坑下坐癸向丁与佳如隆坟。",
+          "fatherId": "sf-gen04-deji",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第6世",
+      "people": [
+        {
+          "id": "sf-gen06-ruqing",
+          "name": "如庆",
+          "info": "文英公之子。娶王氏，生一女。询葬苫陈必盛。",
+          "fatherId": "sf-gen05-wenying",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen06-ruguang",
+          "name": "如廣",
+          "info": "文英公之子。娶陈氏，生二子。一女适陈济头。王观立。",
+          "fatherId": "sf-gen05-wenying",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen06-rusen",
+          "name": "如森",
+          "info": "文英公之子。娶江氏，生一子。",
+          "fatherId": "sf-gen05-wenying",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen06-ruyin",
+          "name": "如因",
+          "info": "文正公之子。娶徐氏，生五子。二女长适渡，汤佛广次适均。溪邓张往。享寿七十六岁。葬徐坑下祖坟。",
+          "fatherId": "sf-gen05-wenying",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen06-ruhuai",
+          "name": "如怀",
+          "info": "文英公之子。娶黄氏，生三子。一女适宋寮。",
+          "fatherId": "sf-gen05-wenying",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第7世",
+      "people": [
+        {
+          "id": "sf-gen07-zuchao",
+          "name": "祖潮",
+          "info": "如因公之子。",
+          "fatherId": "sf-gen06-ruyin",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen07-zuliu",
+          "name": "祖留",
+          "info": "如因公之子。娶柴氏，生七子。一女适刘山岗。氏葬横路坊后，与祖福公同穴。",
+          "fatherId": "sf-gen06-ruyin",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen07-zushao",
+          "name": "祖绍",
+          "info": "道宾公之子。出继。娶林氏，生六子，迁江姓。",
+          "fatherId": "sf-gen06-ruyin",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen07-zufu",
+          "name": "祖福",
+          "info": "道宾公之子。娶张氏，生二子。一女适徐。",
+          "fatherId": "sf-gen06-ruyin",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen07-zuzhang",
+          "name": "祖涨",
+          "info": "如因公之子。娶柴氏，生七子。",
+          "fatherId": "sf-gen06-ruyin",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第8世",
+      "people": [
+        {
+          "id": "sf-gen08-jinghe",
+          "name": "靖和",
+          "info": "祖留公之子。娶吴氏。",
+          "fatherId": "sf-gen07-zuzhang",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen08-jingtian",
+          "name": "靖填",
+          "info": "祖留公之子。娶萧长氏。",
+          "fatherId": "sf-gen07-zuzhang",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen08-jingping",
+          "name": "靖平",
+          "info": "祖留公之子。娶王氏，生四子。一女适上坪江。环生。葬派头菜井后。",
+          "fatherId": "sf-gen07-zuzhang",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen08-jinglong",
+          "name": "靖隆",
+          "info": "祖留公之子。娶光氏，生五子。二女长次适方光。叶抱下园。",
+          "fatherId": "sf-gen07-zuzhang",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen08-jingzhi",
+          "name": "靖志",
+          "info": "名十五。娶蕨氏，不产继。靖增兄子又继靖聪。",
+          "fatherId": "sf-gen07-zuzhang",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen08-jingzeng",
+          "name": "靖增",
+          "info": "祖留公之子。娶叶氏，生四子。一女适刘坑子。延恒。",
+          "fatherId": "sf-gen07-zuzhang",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen08-jinghao",
+          "name": "靖浩",
+          "info": "祖留公之子。娶萧氏，生六子。",
+          "fatherId": "sf-gen07-zuzhang",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第9世",
+      "people": [
+        {
+          "id": "sf-gen09-sanguan",
+          "name": "三官",
+          "info": "靖填公之子。",
+          "fatherId": "sf-gen08-jingtian",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen09-jilv",
+          "name": "季绿",
+          "info": "靖填公三子。字子云。生于丁卯年。卒于乙酉年。",
+          "fatherId": "sf-gen08-jingtian",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen09-jicai",
+          "name": "季彩",
+          "info": "靖坛公长子。字聪明。娶故与公。合葬氏早都。徐坑上井。胜排干秋落。葬队邑一都。",
+          "fatherId": "sf-gen08-jingtian",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第10世",
+      "people": [
+        {
+          "id": "sf-gen10-daoli",
+          "name": "道礼",
+          "info": "季彩公之子。字世美。娶江氏，生四子。葬徐坑北下金字。凤坐坤降向南。",
+          "fatherId": "sf-gen09-jicai",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen10-daoyue",
+          "name": "道岳",
+          "info": "字世常。暂无详细。",
+          "fatherId": "sf-gen09-jicai",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen10-daojing",
+          "name": "道经",
+          "info": "季彩公之子。字世才。娶园叶氏，生一子。葬下干丝。向北。",
+          "fatherId": "sf-gen09-jicai",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen10-daoji",
+          "name": "道纪",
+          "info": "字世律。娶李氏，生二子。合葬有场头田。后坎坐甲向庚。",
+          "fatherId": "sf-gen09-jicai",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第11世",
+      "people": [
+        {
+          "id": "sf-gen11-dexin",
+          "name": "德信",
+          "info": "道岳公之子。生于丙辰年三月初五日戌时。卒于癸年。",
+          "fatherId": "sf-gen10-daoyue",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第12世",
+      "people": [
+        {
+          "id": "sf-gen12-shoujie",
+          "name": "守杰",
+          "info": "德信公之子。",
+          "fatherId": "sf-gen11-dexin",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen12-shoujie2",
+          "name": "守接",
+          "info": "德信公之子。由继叶氏。娶岭氏。葬买坑穴先祥。",
+          "fatherId": "sf-gen11-dexin",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen12-shouyin",
+          "name": "守胤",
+          "info": "德信公之子。",
+          "fatherId": "sf-gen11-dexin",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第13世",
+      "people": [
+        {
+          "id": "sf-gen13-zhifang",
+          "name": "志芳",
+          "info": "守杰公之子。",
+          "fatherId": "sf-gen12-shoujie",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen13-zhifen",
+          "name": "志芬",
+          "info": "守杰公之子。",
+          "fatherId": "sf-gen12-shoujie",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen13-zhimao",
+          "name": "志茂",
+          "info": "守杰公次子。字士新。",
+          "fatherId": "sf-gen12-shoujie",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen13-zhifan",
+          "name": "志蕃",
+          "info": "守杰公之子。",
+          "fatherId": "sf-gen12-shoujie",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第14世",
+      "people": [
+        {
+          "id": "sf-gen14-rengong",
+          "name": "仁恭",
+          "info": "志茂公之子。",
+          "fatherId": "sf-gen13-zhimao",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen14-renliang",
+          "name": "仁良",
+          "info": "志茂公之子。",
+          "fatherId": "sf-gen13-zhimao",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第15世",
+      "people": [
+        {
+          "id": "sf-gen15-yibiao",
+          "name": "义標",
+          "info": "仁恭公之子。",
+          "fatherId": "sf-gen14-rengong",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen15-yilin",
+          "name": "义琳",
+          "info": "仁恭公之子。",
+          "fatherId": "sf-gen14-rengong",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第16世",
+      "people": [
+        {
+          "id": "sf-gen16-weichao",
+          "name": "维焯",
+          "info": "义标公之子。",
+          "fatherId": "sf-gen15-yibiao",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen16-weican",
+          "name": "维灿",
+          "info": "义标公之子。",
+          "fatherId": "sf-gen15-yibiao",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen16-weixia",
+          "name": "维烚",
+          "info": "义标公之子。",
+          "fatherId": "sf-gen15-yibiao",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen16-weijiong",
+          "name": "维炯",
+          "info": "义标公之子。",
+          "fatherId": "sf-gen15-yibiao",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第17世",
+      "people": [
+        {
+          "id": "sf-gen17-shijun",
+          "name": "时俊",
+          "info": "维烚公之子。",
+          "fatherId": "sf-gen16-weixia",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen17-shilun",
+          "name": "时倫",
+          "info": "维烚公之子。",
+          "fatherId": "sf-gen16-weixia",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen17-shiru",
+          "name": "时儒",
+          "info": "维烚公之子。",
+          "fatherId": "sf-gen16-weixia",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen17-shibao",
+          "name": "时保",
+          "info": "维烚公之子。",
+          "fatherId": "sf-gen16-weixia",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第18世",
+      "people": [
+        {
+          "id": "sf-gen18-zhongshu",
+          "name": "忠璹",
+          "info": "时俊公之子。",
+          "fatherId": "sf-gen17-shijun",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen18-zhonghuang",
+          "name": "忠璜",
+          "info": "时俊公之子。",
+          "fatherId": "sf-gen17-shijun",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen18-zhongchen",
+          "name": "忠琛",
+          "info": "时俊公之子。",
+          "fatherId": "sf-gen17-shijun",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen18-zhongqi",
+          "name": "忠琦",
+          "info": "时俊公之子。",
+          "fatherId": "sf-gen17-shijun",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen18-zhongxuan",
+          "name": "忠璇",
+          "info": "时俊公之子。",
+          "fatherId": "sf-gen17-shijun",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第19世",
+      "people": [
+        {
+          "id": "sf-gen19-xincen",
+          "name": "信涔",
+          "info": "忠琛公之子。",
+          "fatherId": "sf-gen18-zhongchen",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen19-xinhao",
+          "name": "信濠",
+          "info": "忠琛公之子。",
+          "fatherId": "sf-gen18-zhongchen",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen19-xinli",
+          "name": "信澧",
+          "info": "忠琛公所生，过继忠琦公。",
+          "fatherId": "sf-gen18-zhongchen",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen19-xinli-2",
+          "name": "信澧",
+          "info": "忠琛公所生，过继忠琦公。（忠琛亲生，过继给忠琦）",
+          "fatherId": "sf-gen18-zhongqi",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第20世",
+      "people": [
+        {
+          "id": "sf-gen20-guangxi",
+          "name": "光晰",
+          "info": "信澧公之子。",
+          "fatherId": "sf-gen19-xinli",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen20-guangxun",
+          "name": "光曛",
+          "info": "信澧公之子。",
+          "fatherId": "sf-gen19-xinli",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第21世",
+      "people": [
+        {
+          "id": "sf-gen21-yuanqi",
+          "name": "元耆",
+          "info": "光晰公之子。",
+          "fatherId": "sf-gen20-guangxi",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen21-yuanhao",
+          "name": "元昊",
+          "info": "献珍公。字华荣。1子(元宴)。生于1975乙卯八月十三日时。在杭州石油公司工作。",
+          "fatherId": "sf-gen20-guangxun",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen21-yuanyan",
+          "name": "元晏",
+          "info": "三多公次子。字华成。生于1970庚戌十月廿四日。",
+          "fatherId": "sf-gen20-guangxun",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen21-yuancheng",
+          "name": "元晟",
+          "info": "三多公三子。字业录。生于1973年十二月初一日。在杭州建工警院工作。",
+          "fatherId": "sf-gen20-guangxun",
+          "birthYear": null,
+          "deathYear": null
+        },
+        {
+          "id": "sf-gen21-yuantan",
+          "name": "元曇",
+          "info": "三多公长子。字夏俊。娶本村夏信洪公三女名华菲。1子。生于1968戊申七月十七日。",
+          "fatherId": "sf-gen20-guangxun",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    },
+    {
+      "title": "第22世",
+      "people": [
+        {
+          "id": "sf-gen22-shengfeng",
+          "name": "盛葑",
+          "info": "元昙公。字嘉斌。生于1994甲戌六月初七日。",
+          "fatherId": "sf-gen21-yuantan",
+          "birthYear": null,
+          "deathYear": null
+        }
+      ]
+    }
+  ]
+}

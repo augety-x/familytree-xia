@@ -1,30 +1,33 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { FamilyData } from '../types/family';
 
-// 默认的空数据结构
+export type DataSource = 'all' | 'sanfang';
+
 const defaultFamilyData: FamilyData = {
   generations: []
 };
 
-// 用于在客户端获取家族数据的钩子
-export function useFamilyData(): { 
+export function useFamilyData(source: DataSource = 'all'): { 
   data: FamilyData; 
   loading: boolean; 
-  error: string | null 
+  error: string | null;
+  refresh: () => void;
 } {
   const [data, setData] = useState<FamilyData>(defaultFamilyData);
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
+  const [refreshKey, setRefreshKey] = useState(0);
+
+  const refresh = useCallback(() => setRefreshKey((k) => k + 1), []);
 
   useEffect(() => {
     async function fetchData() {
       try {
         setLoading(true);
         
-        // 从新的 API 端点获取数据
-        const response = await fetch('/api/family-data');
+        const response = await fetch(`/api/family-data?source=${source}`);
         
         if (!response.ok) {
           throw new Error(`API返回错误状态: ${response.status}`);
@@ -36,7 +39,6 @@ export function useFamilyData(): {
       } catch (err) {
         console.error('获取家族数据失败:', err);
         setError('加载家族数据失败，使用默认数据');
-        // 出错时使用默认数据
         setData(defaultFamilyData);
       } finally {
         setLoading(false);
@@ -44,9 +46,9 @@ export function useFamilyData(): {
     }
 
     fetchData();
-  }, []);
+  }, [source, refreshKey]);
 
-  return { data, loading, error };
+  return { data, loading, error, refresh };
 }
 
 // 导出默认数据，以便在需要时使用
