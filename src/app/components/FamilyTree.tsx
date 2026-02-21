@@ -181,7 +181,7 @@ const PersonCard = ({
                                 e.stopPropagation();
                                 fileInputRef.current?.click();
                             }}
-                            className="text-gray-300 hover:text-blue-500 opacity-0 group-hover:opacity-100 transition-all p-1 rounded-md hover:bg-blue-50"
+                            className="text-gray-500 hover:text-blue-500 opacity-0 group-hover:opacity-100 transition-all p-1 rounded-md hover:bg-blue-50"
                             title="上传照片"
                         >
                             {uploading ? (
