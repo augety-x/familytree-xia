@@ -40,7 +40,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# passwords
-config/passwords.json
+
+# github workflows
+.github/
 
 # 保留示例配置文件
