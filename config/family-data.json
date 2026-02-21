@@ -2439,7 +2439,7 @@
           "name": "光汉",
           "info": "字式垚。娶夏会翠氏（本村夏贤申公女）。生二子一女。生于1949年己丑二月廿二日子时。妻卒于1951年辛卯八月廿四日。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1949",
           "deathYear": null
         },
         {
@@ -2447,7 +2447,7 @@
           "name": "光湘",
           "info": "光汉公。字式忠。生二女。生于1951年辛卯十一月初五日时。卒于1962年壬寅四月廿五日。",
           "fatherId": "gen20-r003",
-          "birthYear": null,
+          "birthYear": "1951",
           "deathYear": null
         },
         {
@@ -2770,9 +2770,9 @@
         {
           "id": "gen21-yuanhao",
           "name": "元昊",
-          "info": "字华荣。生于1975乙卯八月十三日时。在杭州石油公司工作。",
+          "info": "三多公四子。字华荣。生于1975乙卯八月十三日时。在杭州石油公司工作。",
           "fatherId": "gen20-guangxun",
-          "birthYear": null,
+          "birthYear": "1975",
           "deathYear": null
         },
         {
@@ -2780,15 +2780,15 @@
           "name": "元晏",
           "info": "三多公次子。字华成。生于1970庚戌十月廿四日。",
           "fatherId": "gen20-guangxun",
-          "birthYear": null,
+          "birthYear": "1970",
           "deathYear": null
         },
         {
           "id": "gen21-yuancheng",
           "name": "元晟",
-          "info": "三多公三子。字业录。生于1973年十二月初一日。在杭州建工医院工作。",
+          "info": "三多公三子。字华峰。生于1973年十二月初一日。在杭州建工医院工作。",
           "fatherId": "gen20-guangxun",
-          "birthYear": null,
+          "birthYear": "1973",
           "deathYear": null
         },
         {
@@ -2796,7 +2796,7 @@
           "name": "元昙",
           "info": "三多公长子。字夏俊。娶本村夏信洪公三女名华菲。1子。生于1968戊申七月十七日。",
           "fatherId": "gen20-guangxun",
-          "birthYear": null,
+          "birthYear": "1968",
           "deathYear": null
         },
         {
@@ -2836,7 +2836,7 @@
           "name": "元鸿",
           "info": "字燕红。生于1982年壬戌八月十四日时。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1982",
           "deathYear": null
         },
         {
@@ -2844,7 +2844,7 @@
           "name": "元藩",
           "info": "字燕芳。生于1987年丁卯六月十八日时。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1987",
           "deathYear": null
         },
         {
@@ -2916,7 +2916,7 @@
           "name": "元琦",
           "info": "毓英长子。字成万。娶李通满公女名秀娇。生一子一女名立燕。生于1953年癸巳七月初七日卯时。葬青田树坪岗。",
           "fatherId": "gen20-stub016",
-          "birthYear": null,
+          "birthYear": "1953",
           "deathYear": null
         },
         {
@@ -2932,7 +2932,7 @@
           "name": "元瑜",
           "info": "毓英次子。字少春。娶叶楚洪三女金仙氏。1子。生于1968戊申十一月十七日辰时。",
           "fatherId": "gen20-stub016",
-          "birthYear": null,
+          "birthYear": "1968",
           "deathYear": null
         },
         {
@@ -2956,7 +2956,7 @@
           "name": "元维",
           "info": "锅文公。字成温。娶叶淑佳氏。1子2女。生于1918年民国戊寅年十月十八时。长女丽英适叶友根; 次女丽东适沈宏生。",
           "fatherId": "gen20-stub040",
-          "birthYear": null,
+          "birthYear": "1918",
           "deathYear": null
         },
         {
@@ -2964,7 +2964,7 @@
           "name": "元致",
           "info": "锅武公。字少奇。娶夏慧兰氏。1子1女。生于1948年民国戊子年九月廿四时。出继; 女名海莉生于1981年辛酉七月二十日。",
           "fatherId": "gen20-stub041",
-          "birthYear": null,
+          "birthYear": "1948",
           "deathYear": null
         },
         {
@@ -2972,7 +2972,7 @@
           "name": "元缮",
           "info": "锅堂公。字成平。生于1952年。",
           "fatherId": "gen20-stub038",
-          "birthYear": null,
+          "birthYear": "1952",
           "deathYear": null
         },
         {
@@ -2980,7 +2980,7 @@
           "name": "元细",
           "info": "鹤堂次子。字小平。3子(盛潮、盛润、盛洲)。生于1955乙未六月初三日。",
           "fatherId": "gen20-stub046",
-          "birthYear": null,
+          "birthYear": "1955",
           "deathYear": null
         },
         {
@@ -2988,7 +2988,7 @@
           "name": "元缨",
           "info": "熊权之子。字九成。2子(盛训、盛洞)。生于1940民国庚辰三月十四日。",
           "fatherId": "gen20-stub017",
-          "birthYear": null,
+          "birthYear": "1940",
           "deathYear": null
         },
         {
@@ -2996,7 +2996,7 @@
           "name": "元绽",
           "info": "字成宽。娶王氏名少玉。3子。生于1966丙午十二月十四日时。本姓王。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1966",
           "deathYear": null
         },
         {
@@ -3004,7 +3004,7 @@
           "name": "元缢",
           "info": "国招长子。字根进。娶夏庄叶全圭氏。1子5女。生于1952年。长子。",
           "fatherId": "gen20-stub004",
-          "birthYear": null,
+          "birthYear": "1952",
           "deathYear": null
         },
         {
@@ -3012,7 +3012,7 @@
           "name": "元优",
           "info": "国招次子。字成进。娶新磡村徐仕长公三女名福莲氏。1子1女。生于1956年。次子。",
           "fatherId": "gen20-stub004",
-          "birthYear": null,
+          "birthYear": "1956",
           "deathYear": null
         },
         {
@@ -3020,7 +3020,7 @@
           "name": "元敷",
           "info": "字大进。娶黄山头李焕荣公女名金英。1子。生于1972壬子十二月初六日时。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1972",
           "deathYear": null
         },
         {
@@ -3028,7 +3028,7 @@
           "name": "元变",
           "info": "国平长子。字根木。娶上江村江赛龟。1子2女。生于1949己丑八月十三日时。配偶生于1953癸巳三月十八日时。",
           "fatherId": "gen20-stub003",
-          "birthYear": null,
+          "birthYear": "1949",
           "deathYear": null
         },
         {
@@ -3036,7 +3036,7 @@
           "name": "元续",
           "info": "国平次子。字根华。娶无纯洁。1子2女。生于1955乙未五月廿五日时。配偶生于1962壬寅四月廿六日时。",
           "fatherId": "gen20-stub003",
-          "birthYear": null,
+          "birthYear": "1955",
           "deathYear": null
         },
         {
@@ -3044,7 +3044,7 @@
           "name": "元绫",
           "info": "国平三子。字根林。娶青田户头坑翠珠氏。1子。生于1962壬寅二月初八日时。配偶生于1966丙午十一月廿六日时。",
           "fatherId": "gen20-stub003",
-          "birthYear": null,
+          "birthYear": "1962",
           "deathYear": null
         },
         {
@@ -3052,7 +3052,7 @@
           "name": "元正",
           "info": "献豪婿子八。字国龙。娶珠莲氏。1女(名菊英)。生于1910宣统庚戌年三月十二时。卒于19[?]九月廿三时。",
           "fatherId": "gen20-stub023",
-          "birthYear": null,
+          "birthYear": "1910",
           "deathYear": null
         },
         {
@@ -3060,7 +3060,7 @@
           "name": "元评",
           "info": "生于1935民国乙亥年。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1935",
           "deathYear": null
         },
         {
@@ -3068,7 +3068,7 @@
           "name": "元城",
           "info": "字俊良。娶青田黄肚汤氏。生于1968年。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1968",
           "deathYear": null
         },
         {
@@ -3076,7 +3076,7 @@
           "name": "元伟",
           "info": "献琪公[?]子。字体根。娶横赵建美氏。1子。生于1974甲寅二月二十日时。配偶生于1976丙辰。",
           "fatherId": "gen20-stub022",
-          "birthYear": null,
+          "birthYear": "1974",
           "deathYear": null
         },
         {
@@ -3100,7 +3100,7 @@
           "name": "元珈",
           "info": "成俊公。字志达。生于1951辛卯年正月十六日。长子。",
           "fatherId": "gen20-stub013",
-          "birthYear": null,
+          "birthYear": "1951",
           "deathYear": null
         },
         {
@@ -3108,7 +3108,7 @@
           "name": "元珉",
           "info": "成俊次子。字志道。娶本村夏式梅。生一子一女名夏芳生。生于1953癸巳七月廿六日时。",
           "fatherId": "gen20-stub013",
-          "birthYear": null,
+          "birthYear": "1953",
           "deathYear": null
         },
         {
@@ -3132,7 +3132,7 @@
           "name": "元琊",
           "info": "字志河。娶吴爱英氏。1子。生于1965年。配偶生于1969己酉九月廿九日。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1965",
           "deathYear": null
         },
         {
@@ -3140,7 +3140,7 @@
           "name": "元琏",
           "info": "成俊公。字李志东。娶叶金[?]氏。1子。生于1970年。成俊六子; 配偶生于1972年。",
           "fatherId": "gen20-stub013",
-          "birthYear": null,
+          "birthYear": "1970",
           "deathYear": null
         },
         {
@@ -3148,7 +3148,7 @@
           "name": "元琮",
           "info": "字世平。生于1964年。生于甲经十月廿八日; 外一。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1964",
           "deathYear": null
         },
         {
@@ -3156,7 +3156,7 @@
           "name": "元玮",
           "info": "献平次子。字振良。娶吴爱凤(下吴村吴大荣次女)。1子。生于1972壬子八月廿二日时。别名民四。",
           "fatherId": "gen20-stub018",
-          "birthYear": null,
+          "birthYear": "1972",
           "deathYear": null
         },
         {
@@ -3164,7 +3164,7 @@
           "name": "元珞",
           "info": "献根长子。字荣荣。娶严月和(丽水)。1子。生于1964甲辰九月廿七日时。",
           "fatherId": "gen20-stub019",
-          "birthYear": null,
+          "birthYear": "1964",
           "deathYear": null
         },
         {
@@ -3172,7 +3172,7 @@
           "name": "元瑕",
           "info": "献根次子。娶董国芬(丽水)。1子。生于1966丙午八月廿九日时。",
           "fatherId": "gen20-stub019",
-          "birthYear": null,
+          "birthYear": "1966",
           "deathYear": null
         },
         {
@@ -3180,7 +3180,7 @@
           "name": "元琰",
           "info": "献琛次子。字成如。娶青田林口村明凡公女。1子2女。生于1933癸酉九月十七日。子女生于1949己丑九月初九日; 长女嫁青田坑根林伟森, 次女嫁老竹马村周云林。",
           "fatherId": "gen20-stub021",
-          "birthYear": null,
+          "birthYear": "1933",
           "deathYear": null
         },
         {
@@ -3188,7 +3188,7 @@
           "name": "元瓒",
           "info": "献琛公。字成余。娶徐碎兰氏(西坑村)。3女。生于1923民国癸未年十一月十七日。配偶徐碎兰生于1951辛卯五月十七日。",
           "fatherId": "gen20-stub021",
-          "birthYear": null,
+          "birthYear": "1923",
           "deathYear": null
         },
         {
@@ -3196,7 +3196,7 @@
           "name": "元臣",
           "info": "志荣公长子。字朝人。娶龙泉余招生。生1女。生于1955乙未十二月十八日。配偶于1959己亥九月十六日娶入门。",
           "fatherId": "gen20-stub012",
-          "birthYear": null,
+          "birthYear": "1955",
           "deathYear": null
         },
         {
@@ -3204,7 +3204,7 @@
           "name": "元壹",
           "info": "志荣公。字禹平。娶本村叶楚权公女娇莲。生1子2女。生于1951辛卯十一月廿二日。长女晓红嫁叶姓; 次女红燕生于1982壬戌二月十二日。",
           "fatherId": "gen20-stub012",
-          "birthYear": null,
+          "birthYear": "1951",
           "deathYear": null
         },
         {
@@ -3212,7 +3212,7 @@
           "name": "元贰",
           "info": "志荣公次子。字业龙。生1子。生于1963癸卯正月初九日。卒于1964甲辰十一月十一日。",
           "fatherId": "gen20-stub012",
-          "birthYear": null,
+          "birthYear": "1963",
           "deathYear": null
         },
         {
@@ -3220,7 +3220,7 @@
           "name": "元叁",
           "info": "志荣三子。字春龙。至少一子。生于1965乙巳年正月十七日。",
           "fatherId": "gen20-stub012",
-          "birthYear": null,
+          "birthYear": "1965",
           "deathYear": null
         },
         {
@@ -3228,7 +3228,7 @@
           "name": "元泗",
           "info": "志荣四子。字体彬。生于1970庚戌年九月廿九日。",
           "fatherId": "gen20-stub012",
-          "birthYear": null,
+          "birthYear": "1970",
           "deathYear": null
         },
         {
@@ -3236,7 +3236,7 @@
           "name": "元晔",
           "info": "登侯之子。字振华。娶陈村叶娇英氏。2子。生于1949己丑年十一月廿六日。配偶叶娇英生于1953癸巳年十月初二日。",
           "fatherId": "gen20-stub024",
-          "birthYear": null,
+          "birthYear": "1949",
           "deathYear": null
         },
         {
@@ -3244,7 +3244,7 @@
           "name": "元盛",
           "info": "志伟长子。字振程。生于1957丁酉年七月十二日。",
           "fatherId": "gen20-stub011",
-          "birthYear": null,
+          "birthYear": "1957",
           "deathYear": null
         },
         {
@@ -3252,7 +3252,7 @@
           "name": "元懿",
           "info": "登龙嗣子。字振旭。娶丽水碧糊徐晓红氏。0子1女。生于1960庚子十月十六日时。配偶生于1961辛丑六月廿四日时。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1960",
           "deathYear": null
         },
         {
@@ -3268,7 +3268,7 @@
           "name": "元懃",
           "info": "志伟三子。字振明。娶丽水朱小峰氏。1子。生于1963癸卯三月廿五日时。配偶生于1967丁未九月初七日时。",
           "fatherId": "gen20-stub011",
-          "birthYear": null,
+          "birthYear": "1963",
           "deathYear": null
         },
         {
@@ -3276,7 +3276,7 @@
           "name": "元宴",
           "info": "元昊公。字朗照。生于1950庚寅十月初六日时。",
           "fatherId": "gen21-yuanhao",
-          "birthYear": null,
+          "birthYear": "1950",
           "deathYear": null
         },
         {
@@ -3284,7 +3284,7 @@
           "name": "元骞",
           "info": "献珍公。字建程。娶丽水十八都梁三宝公长女苏珠氏。1子1女(女名芳生)。生于1952壬辰十二月十七日时。配偶生于1954甲午二月十七日时。",
           "fatherId": "gen20-stub020",
-          "birthYear": null,
+          "birthYear": "1952",
           "deathYear": null
         },
         {
@@ -3292,7 +3292,7 @@
           "name": "元审",
           "info": "字建荣。娶丽水太平仓岗徐廷金公长女名爱妹。3女(盛茜、盛蕾、盛蓉)。生于1956丙申。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1956",
           "deathYear": null
         },
         {
@@ -3300,7 +3300,7 @@
           "name": "元宰",
           "info": "献珍四子。字建中。娶麦宝山涂张杰公女名慧英。1子1女(女名晨晨)。生于1959己亥。女儿晨晨生于1987丁卯七月廿二日时。",
           "fatherId": "gen20-stub020",
-          "birthYear": null,
+          "birthYear": "1959",
           "deathYear": null
         },
         {
@@ -3308,7 +3308,7 @@
           "name": "元宸",
           "info": "绍洪长子。字成法。娶吴莲英氏。1子。生于1954甲午。配偶吴莲英生于1963癸卯七月十二日时。",
           "fatherId": "gen20-stub025",
-          "birthYear": null,
+          "birthYear": "1954",
           "deathYear": null
         },
         {
@@ -3316,7 +3316,7 @@
           "name": "元察",
           "info": "绍洪次子。字成立。生于1957丁酉。",
           "fatherId": "gen20-stub025",
-          "birthYear": null,
+          "birthYear": "1957",
           "deathYear": null
         },
         {
@@ -3348,7 +3348,7 @@
           "name": "元槽",
           "info": "式权公四子。字承义。娶曾锅寿公女小班氏。1子(盛训)。生于1954甲午九月廿八日。浙江中医学院毕业; 丽水市中医院副主任中医师; 共产党员。",
           "fatherId": "gen20-stub008",
-          "birthYear": null,
+          "birthYear": "1954",
           "deathYear": null
         },
         {
@@ -3356,7 +3356,7 @@
           "name": "元楷",
           "info": "式权公五子。字永华。娶江永法公次女雪翠氏。1子1女(盛泓、玲)。生于1958戊戌九月廿七日。",
           "fatherId": "gen20-stub008",
-          "birthYear": null,
+          "birthYear": "1958",
           "deathYear": null
         },
         {
@@ -3364,7 +3364,7 @@
           "name": "元榔",
           "info": "字文成。娶青田黄肚村汤正平公女名菊英氏。生一子。生于1963癸卯六月廿九日时。配偶生于1968戊申二月廿九日时。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1963",
           "deathYear": null
         },
         {
@@ -3372,7 +3372,7 @@
           "name": "元柠",
           "info": "字建宁。娶丽水金慧君氏。生一子。生于1959己亥正月。丽水粮化厂厂长; 配偶生于1964甲辰十月十五日时。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1959",
           "deathYear": null
         },
         {
@@ -3380,7 +3380,7 @@
           "name": "元栉",
           "info": "字宁炎。生一子。生于1961辛丑八月初十日时。市纪检委办公室主任; 配偶青田金棒生于1967丁未五月初一日。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1961",
           "deathYear": null
         },
         {
@@ -3396,7 +3396,7 @@
           "name": "元媛",
           "info": "式森五女。字晓冬。赘夫名[?]森林。1子(名盛)。生于1970庚戌年。杭大本科毕业; 丽水地区中国银行任职经济师; 赘夫抗大木科毕业、丽水地区人民银行任职。",
           "fatherId": "gen20-stub009",
-          "birthYear": null,
+          "birthYear": "1970",
           "deathYear": null
         },
         {
@@ -3404,7 +3404,7 @@
           "name": "元媒",
           "info": "式森四女。字晓春。娶赞夫名张峰云。1子(名盛)。生于1964甲辰年。大专毕业职称食管员; 丽水第一中学图书馆任职; 赞夫在丽水地区体改办任职、生于1964甲辰五月初八日。",
           "fatherId": "gen20-stub009",
-          "birthYear": null,
+          "birthYear": "1964",
           "deathYear": null
         },
         {
@@ -3412,7 +3412,7 @@
           "name": "元铧",
           "info": "锅瑚公(婿子/入赘)。字存华。娶王氏名淑美。生1子。生于1962壬寅七月十五日。系小垟村王长礼三子入赘。",
           "fatherId": "gen20-stub043",
-          "birthYear": null,
+          "birthYear": "1962",
           "deathYear": null
         },
         {
@@ -3420,7 +3420,7 @@
           "name": "元馨",
           "info": "锅芝长子。字志俊。生于1973癸丑五月十八日。",
           "fatherId": "gen20-stub044",
-          "birthYear": null,
+          "birthYear": "1973",
           "deathYear": null
         },
         {
@@ -3428,7 +3428,7 @@
           "name": "元馥",
           "info": "锅芝次子。字伟俊。生于1975乙卯八月十八日。",
           "fatherId": "gen20-stub044",
-          "birthYear": null,
+          "birthYear": "1975",
           "deathYear": null
         },
         {
@@ -3436,7 +3436,7 @@
           "name": "元臻",
           "info": "锅呈公(婿子/入赘)。字种泉。配氏名兰英。生1子。生于1968戊申三月十七日。水横坑毛姓入赞。",
           "fatherId": "gen20-stub037",
-          "birthYear": null,
+          "birthYear": "1968",
           "deathYear": null
         },
         {
@@ -3444,7 +3444,7 @@
           "name": "元升",
           "info": "光权公之子。字卫星。娶麦江苏无锅郑静英氏。2子。生于庚辰年二月初四日。妻子生于1950庚寅七月初一日。",
           "fatherId": "gen20-r005",
-          "birthYear": null,
+          "birthYear": "1950",
           "deathYear": null
         },
         {
@@ -3452,7 +3452,7 @@
           "name": "元阳",
           "info": "式态公之子。字建华。生于1950庚寅九月廿六日。",
           "fatherId": "gen20-stub007",
-          "birthYear": null,
+          "birthYear": "1950",
           "deathYear": null
         },
         {
@@ -3468,7 +3468,7 @@
           "name": "元峰",
           "info": "商周公。字培峰。娶戴月葱氏; 刘会英氏。1子1女。生于1970庚戌。戴月葱氏生于1966丙午七月初八; 刘会英氏生于1976丙辰; 女儿名夏丽生生于1988戊辰九月十六日。",
           "fatherId": "gen20-stub002",
-          "birthYear": null,
+          "birthYear": "1970",
           "deathYear": null
         }
       ]
@@ -3479,9 +3479,9 @@
         {
           "id": "gen22-shengfeng",
           "name": "盛葑",
-          "info": "元昙公。字嘉斌。生于1994甲戌六月初七日。",
-          "fatherId": "gen21-yuantan",
-          "birthYear": null,
+          "info": "元昊公之子。字嘉斌。生于1994甲戌六月初七日。",
+          "fatherId": "gen21-yuanhao",
+          "birthYear": "1994",
           "deathYear": null
         },
         {
@@ -3489,7 +3489,7 @@
           "name": "盛伟",
           "info": "元琦公。字立伟。生于1977年丁巳正月初八日。",
           "fatherId": "gen21-r015",
-          "birthYear": null,
+          "birthYear": "1977",
           "deathYear": null
         },
         {
@@ -3497,7 +3497,7 @@
           "name": "盛观",
           "info": "元缉公。字利荣。娶叶爱英氏。1子1女。生于1956丙申七月廿一日。女缪慧生于1983癸亥。",
           "fatherId": "gen21-r016",
-          "birthYear": null,
+          "birthYear": "1956",
           "deathYear": null
         },
         {
@@ -3505,7 +3505,7 @@
           "name": "盛皓",
           "info": "元瑜公。字晨皓。生于1993癸酉正月初九日酉时。",
           "fatherId": "gen21-r017",
-          "birthYear": null,
+          "birthYear": "1993",
           "deathYear": null
         },
         {
@@ -3513,7 +3513,7 @@
           "name": "盛亲",
           "info": "字利利。娶麦丰洋村叶丽燕。1子(世隆)。生于1973癸丑八月初十时。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1973",
           "deathYear": null
         },
         {
@@ -3521,7 +3521,7 @@
           "name": "盛福",
           "info": "元绅公。字利背。娶徐青梅。生一子一女名腾娜。生于1960庚子八月初四日时。",
           "fatherId": "gen21-r018",
-          "birthYear": null,
+          "birthYear": "1960",
           "deathYear": null
         },
         {
@@ -3529,7 +3529,7 @@
           "name": "盛禄",
           "info": "元绅公。字利伟。生于1972壬子正月二十日时。世早。",
           "fatherId": "gen21-r018",
-          "birthYear": null,
+          "birthYear": "1972",
           "deathYear": null
         },
         {
@@ -3537,7 +3537,7 @@
           "name": "盛禧",
           "info": "元继公。字利道。娶本村夏献平公女夏华珍。4子。生于1954年甲午十一月廿九日午时。配偶夏华珍生于1958年戊戌正月初十日。",
           "fatherId": "gen21-r019",
-          "birthYear": null,
+          "birthYear": "1954",
           "deathYear": null
         },
         {
@@ -3545,7 +3545,7 @@
           "name": "盛朝",
           "info": "盛禧公。字利忠。娶下园村叶月土公女叶吉英。1子1女。生于1963年癸卯三月初六日午时。卒于1994年甲戌二月十二日时。葬处弄湾机耕路后坐北向南。女名夏敏。",
           "fatherId": "gen22-r007",
-          "birthYear": null,
+          "birthYear": "1963",
           "deathYear": null
         },
         {
@@ -3553,7 +3553,7 @@
           "name": "盛韩",
           "info": "元维公。字建林。娶章珠银氏。1女。生于1971年辛亥四月初四日子时。女名琦琦生于1995年乙亥六月廿二日。",
           "fatherId": "gen21-r020",
-          "birthYear": null,
+          "birthYear": "1971",
           "deathYear": null
         },
         {
@@ -3561,7 +3561,7 @@
           "name": "盛泽",
           "info": "元致公。字海林。生于1979年己未七月十四日时。",
           "fatherId": "gen21-r021",
-          "birthYear": null,
+          "birthYear": "1979",
           "deathYear": null
         },
         {
@@ -3569,7 +3569,7 @@
           "name": "盛济",
           "info": "元缮公。字品文。生于1971年。",
           "fatherId": "gen21-r022",
-          "birthYear": null,
+          "birthYear": "1971",
           "deathYear": null
         },
         {
@@ -3577,7 +3577,7 @@
           "name": "盛潮",
           "info": "元细公。字品玲。1子(世琊)。生于1978戊午五月初五日。",
           "fatherId": "gen21-r023",
-          "birthYear": null,
+          "birthYear": "1978",
           "deathYear": null
         },
         {
@@ -3585,7 +3585,7 @@
           "name": "盛润",
           "info": "元细公。字品珑。1子(世瑯)。生于1980庚申二月初九日。",
           "fatherId": "gen21-r023",
-          "birthYear": null,
+          "birthYear": "1980",
           "deathYear": null
         },
         {
@@ -3593,7 +3593,7 @@
           "name": "盛洲",
           "info": "元细公。字品武。娶张丽华(丽水市丽光新村张业初公之女)。2子1女(女名苏霞)。生于1974甲寅九月初五日。配偶生于1971辛亥七月廿四日。",
           "fatherId": "gen21-r023",
-          "birthYear": null,
+          "birthYear": "1974",
           "deathYear": null
         },
         {
@@ -3601,7 +3601,7 @@
           "name": "盛训",
           "info": "元缨公。字放明。1子(世玉)。生于1962壬寅九月初十日。",
           "fatherId": "gen21-r024",
-          "birthYear": null,
+          "birthYear": "1962",
           "deathYear": null
         },
         {
@@ -3617,7 +3617,7 @@
           "name": "盛浙",
           "info": "元绽公。字夏波。娶张清凤氏。1子。生于1972壬子八月廿九日时。",
           "fatherId": "gen21-r025",
-          "birthYear": null,
+          "birthYear": "1972",
           "deathYear": null
         },
         {
@@ -3625,7 +3625,7 @@
           "name": "盛溢",
           "info": "字汝伟。娶金碧芝氏。1子(世玺)。生于1968戊申二月廿五日时。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1968",
           "deathYear": null
         },
         {
@@ -3633,7 +3633,7 @@
           "name": "盛洋",
           "info": "元缢公。字利文。生于1975年。",
           "fatherId": "gen21-r026",
-          "birthYear": null,
+          "birthYear": "1975",
           "deathYear": null
         },
         {
@@ -3641,7 +3641,7 @@
           "name": "盛银",
           "info": "元优公。字东林。生于1984年。",
           "fatherId": "gen21-r027",
-          "birthYear": null,
+          "birthYear": "1984",
           "deathYear": null
         },
         {
@@ -3649,7 +3649,7 @@
           "name": "盛镞",
           "info": "元敷公长子。生于1995乙亥八月十五日时。名利勇。",
           "fatherId": "gen21-r028",
-          "birthYear": null,
+          "birthYear": "1995",
           "deathYear": null
         },
         {
@@ -3657,7 +3657,7 @@
           "name": "盛铷",
           "info": "元敷公次子。字爱求。生于1977丁巳六月十五日时。",
           "fatherId": "gen21-r028",
-          "birthYear": null,
+          "birthYear": "1977",
           "deathYear": null
         },
         {
@@ -3665,7 +3665,7 @@
           "name": "盛镛",
           "info": "元变公长子。字爱珍。1子。生于1973癸丑十一月廿一日时。",
           "fatherId": "gen21-r029",
-          "birthYear": null,
+          "birthYear": "1973",
           "deathYear": null
         },
         {
@@ -3673,7 +3673,7 @@
           "name": "盛错",
           "info": "盛镛公长子。字荞丽。生于1985乙丑。",
           "fatherId": "gen22-r023",
-          "birthYear": null,
+          "birthYear": "1985",
           "deathYear": null
         },
         {
@@ -3681,7 +3681,7 @@
           "name": "盛铀",
           "info": "元绫公。字琦锋。生于1988戊辰四月初二日时。",
           "fatherId": "gen21-r031",
-          "birthYear": null,
+          "birthYear": "1988",
           "deathYear": null
         },
         {
@@ -3689,7 +3689,7 @@
           "name": "盛北",
           "info": "元正公。字荣珪。娶菊英氏。1女。生于1949己丑二月廿二日时。配偶生于1950庚寅十二月十九日时。",
           "fatherId": "gen21-r032",
-          "birthYear": null,
+          "birthYear": "1949",
           "deathYear": null
         },
         {
@@ -3697,7 +3697,7 @@
           "name": "盛南",
           "info": "元评公。字夏销。生于1968年。",
           "fatherId": "gen21-r033",
-          "birthYear": null,
+          "birthYear": "1968",
           "deathYear": null
         },
         {
@@ -3713,7 +3713,7 @@
           "name": "盛东",
           "info": "元侃公[?]子。字惠民。娶郑地汝姑村张惠运氏。1子。生于1971辛亥七月十九日午时。配偶生于1973癸丑十一月初五申时。",
           "fatherId": "gen21-r036",
-          "birthYear": null,
+          "birthYear": "1971",
           "deathYear": null
         },
         {
@@ -3721,7 +3721,7 @@
           "name": "盛辑",
           "info": "元缓公。字俊平。生于1979己未年三月十八日。",
           "fatherId": "gen21-r037",
-          "birthYear": null,
+          "birthYear": "1979",
           "deathYear": null
         },
         {
@@ -3729,7 +3729,7 @@
           "name": "盛辕",
           "info": "元缓公。字利杰。生于1959己亥年九月廿六日。",
           "fatherId": "gen21-r037",
-          "birthYear": null,
+          "birthYear": "1959",
           "deathYear": null
         },
         {
@@ -3737,7 +3737,7 @@
           "name": "盛轩",
           "info": "元珈公。字利圣。娶姜正岙村叶方里公女名娇莲。1子。生于1965乙巳年二月初五日。",
           "fatherId": "gen21-r038",
-          "birthYear": null,
+          "birthYear": "1965",
           "deathYear": null
         },
         {
@@ -3745,7 +3745,7 @@
           "name": "盛麟",
           "info": "元珉公。字夏琳。生于1980庚申四月初三日时。",
           "fatherId": "gen21-r039",
-          "birthYear": null,
+          "birthYear": "1980",
           "deathYear": null
         },
         {
@@ -3769,7 +3769,7 @@
           "name": "盛杰",
           "info": "元琊公。字夏杰。生于1992年。生于壬申六月初九日。",
           "fatherId": "gen21-r041",
-          "birthYear": null,
+          "birthYear": "1992",
           "deathYear": null
         },
         {
@@ -3777,7 +3777,7 @@
           "name": "盛烨",
           "info": "元琏公。字孝升[?]。生于1986年。生于丙寅十二月十日。",
           "fatherId": "gen21-r043",
-          "birthYear": null,
+          "birthYear": "1986",
           "deathYear": null
         },
         {
@@ -3785,7 +3785,7 @@
           "name": "盛炜",
           "info": "娶徐金凤(新砀徐成宗长女)。2女。生于1966丙午闰十月初七日时。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1966",
           "deathYear": null
         },
         {
@@ -3793,7 +3793,7 @@
           "name": "盛烽",
           "info": "元玮公。字鑫波。生于1997丁丑三月初四日时。",
           "fatherId": "gen21-r045",
-          "birthYear": null,
+          "birthYear": "1997",
           "deathYear": null
         },
         {
@@ -3801,7 +3801,7 @@
           "name": "盛鹏",
           "info": "元珞公。字夏煜。生于1990庚午闰五月廿八日时。",
           "fatherId": "gen21-r046",
-          "birthYear": null,
+          "birthYear": "1990",
           "deathYear": null
         },
         {
@@ -3809,7 +3809,7 @@
           "name": "盛义",
           "info": "元瑕公。字源。生于1996丙子十一月十一时。",
           "fatherId": "gen21-r047",
-          "birthYear": null,
+          "birthYear": "1996",
           "deathYear": null
         },
         {
@@ -3817,7 +3817,7 @@
           "name": "盛刚",
           "info": "献琛三子。字水建。生于1976丙辰八月初八日。",
           "fatherId": "gen20-stub021",
-          "birthYear": null,
+          "birthYear": "1976",
           "deathYear": null
         },
         {
@@ -3825,7 +3825,7 @@
           "name": "盛卫",
           "info": "元瓒公。字士伟。娶春运氏。2女。生于1962壬寅二月廿五日。配偶春运氏生于1969己酉九月廿九日。",
           "fatherId": "gen21-r049",
-          "birthYear": null,
+          "birthYear": "1962",
           "deathYear": null
         },
         {
@@ -3833,7 +3833,7 @@
           "name": "盛宇",
           "info": "元臣公。字夏雨。生于1984甲子七月十九日。",
           "fatherId": "gen21-r050",
-          "birthYear": null,
+          "birthYear": "1984",
           "deathYear": null
         },
         {
@@ -3841,7 +3841,7 @@
           "name": "盛君",
           "info": "元壹公。字晓军。生于1974甲寅五月廿九日。",
           "fatherId": "gen21-r051",
-          "birthYear": null,
+          "birthYear": "1974",
           "deathYear": null
         },
         {
@@ -3849,7 +3849,7 @@
           "name": "盛记",
           "info": "元贰公。字夏汤仔鸡。生于1996丙子三月初六日时。",
           "fatherId": "gen21-r052",
-          "birthYear": null,
+          "birthYear": "1996",
           "deathYear": null
         },
         {
@@ -3857,7 +3857,7 @@
           "name": "盛能",
           "info": "元叁公。字夏能。生于1992壬申年九月十二日。",
           "fatherId": "gen21-r053",
-          "birthYear": null,
+          "birthYear": "1992",
           "deathYear": null
         },
         {
@@ -3865,7 +3865,7 @@
           "name": "盛蔚",
           "info": "元晔公。字益良。生于1973癸丑年十月廿二日。",
           "fatherId": "gen21-r055",
-          "birthYear": null,
+          "birthYear": "1973",
           "deathYear": null
         },
         {
@@ -3873,7 +3873,7 @@
           "name": "盛薪",
           "info": "元晔公。字益茂。生于1976丙辰年十一月十九日。",
           "fatherId": "gen21-r055",
-          "birthYear": null,
+          "birthYear": "1976",
           "deathYear": null
         },
         {
@@ -3881,7 +3881,7 @@
           "name": "盛蘅",
           "info": "元盛公。字夏阳。生于1983癸亥年八月廿七日。",
           "fatherId": "gen21-r056",
-          "birthYear": null,
+          "birthYear": "1983",
           "deathYear": null
         },
         {
@@ -3889,7 +3889,7 @@
           "name": "盛蒋",
           "info": "元懿公。字夏月。生于1985乙丑十月初五日时。",
           "fatherId": "gen21-r057",
-          "birthYear": null,
+          "birthYear": "1985",
           "deathYear": null
         },
         {
@@ -3897,7 +3897,7 @@
           "name": "盛菘",
           "info": "元懃公。字夏宇。生于1991辛未五月廿一日时。",
           "fatherId": "gen21-r059",
-          "birthYear": null,
+          "birthYear": "1991",
           "deathYear": null
         },
         {
@@ -3905,7 +3905,7 @@
           "name": "盛葳",
           "info": "元骞公。字栋栋。生于1983癸亥五月十六日时。",
           "fatherId": "gen21-r061",
-          "birthYear": null,
+          "birthYear": "1983",
           "deathYear": null
         },
         {
@@ -3913,7 +3913,7 @@
           "name": "盛茜",
           "info": "元审公。字秀兰。生于1980庚申。",
           "fatherId": "gen21-r062",
-          "birthYear": null,
+          "birthYear": "1980",
           "deathYear": null
         },
         {
@@ -3921,7 +3921,7 @@
           "name": "盛蕾",
           "info": "元审公。字秀女。生于1983癸亥。",
           "fatherId": "gen21-r062",
-          "birthYear": null,
+          "birthYear": "1983",
           "deathYear": null
         },
         {
@@ -3929,7 +3929,7 @@
           "name": "盛蓉",
           "info": "元审公。字秀青。生于1985乙丑。",
           "fatherId": "gen21-r062",
-          "birthYear": null,
+          "birthYear": "1985",
           "deathYear": null
         },
         {
@@ -3937,7 +3937,7 @@
           "name": "盛胜",
           "info": "元宰公。字圣圣。生于1983癸亥。",
           "fatherId": "gen21-r063",
-          "birthYear": null,
+          "birthYear": "1983",
           "deathYear": null
         },
         {
@@ -3945,7 +3945,7 @@
           "name": "盛富",
           "info": "元宸公。字利富。生于1989己巳。",
           "fatherId": "gen21-r064",
-          "birthYear": null,
+          "birthYear": "1989",
           "deathYear": null
         },
         {
@@ -3953,7 +3953,7 @@
           "name": "盛骑",
           "info": "元榴公。字永伟。娶金娜氏。1子。生于1962壬寅。本赛坑江姓入赘; 丽水木材公司工作; 配偶金娜生于1965乙巳四月初九日。",
           "fatherId": "gen21-r066",
-          "birthYear": null,
+          "birthYear": "1962",
           "deathYear": null
         },
         {
@@ -3961,7 +3961,7 @@
           "name": "盛芗",
           "info": "元裆公。字巧玲。生于1974甲寅八月十二日时。",
           "fatherId": "gen21-r067",
-          "birthYear": null,
+          "birthYear": "1974",
           "deathYear": null
         },
         {
@@ -3969,7 +3969,7 @@
           "name": "盛苓",
           "info": "元裆公。字素玲。生于1976丙辰七月十二日时。",
           "fatherId": "gen21-r067",
-          "birthYear": null,
+          "birthYear": "1976",
           "deathYear": null
         },
         {
@@ -3977,7 +3977,7 @@
           "name": "盛谓",
           "info": "元橹公。字乐平。生于1981辛酉十月初九日时。丽水城关中学读书。",
           "fatherId": "gen21-r068",
-          "birthYear": null,
+          "birthYear": "1981",
           "deathYear": null
         },
         {
@@ -3985,7 +3985,7 @@
           "name": "盛训",
           "info": "元槽公。字乐舜。生于1981辛酉八月十五日。丽水中学读书。",
           "fatherId": "gen21-r069",
-          "birthYear": null,
+          "birthYear": "1981",
           "deathYear": null
         },
         {
@@ -3993,7 +3993,7 @@
           "name": "盛泓",
           "info": "元楷公。字乐宏。生于1985乙丑三月十六日。",
           "fatherId": "gen21-r070",
-          "birthYear": null,
+          "birthYear": "1985",
           "deathYear": null
         },
         {
@@ -4001,7 +4001,7 @@
           "name": "盛晋",
           "info": "元榔公。字乐震。生于1990庚午四月十八日时。",
           "fatherId": "gen21-r071",
-          "birthYear": null,
+          "birthYear": "1990",
           "deathYear": null
         },
         {
@@ -4009,7 +4009,7 @@
           "name": "盛韬",
           "info": "元柠公。字金涛。生于1989己巳九月廿四日时。",
           "fatherId": "gen21-r072",
-          "birthYear": null,
+          "birthYear": "1989",
           "deathYear": null
         },
         {
@@ -4017,7 +4017,7 @@
           "name": "盛地",
           "info": "元栉公。字金地。生于1994甲戌二月十八日时。",
           "fatherId": "gen21-r073",
-          "birthYear": null,
+          "birthYear": "1994",
           "deathYear": null
         },
         {
@@ -4025,7 +4025,7 @@
           "name": "盛玮",
           "info": "元铧公。字王伟。生于1987丁卯九月初五日。",
           "fatherId": "gen21-r077",
-          "birthYear": null,
+          "birthYear": "1987",
           "deathYear": null
         },
         {
@@ -4033,7 +4033,7 @@
           "name": "盛活",
           "info": "元臻公。字楼传。生于1993癸酉三月十日。",
           "fatherId": "gen21-r003",
-          "birthYear": null,
+          "birthYear": "1993",
           "deathYear": null
         },
         {
@@ -4041,7 +4041,7 @@
           "name": "盛海",
           "info": "元升公。字永海。生于1969己酉四月廿三日。",
           "fatherId": "gen21-r007",
-          "birthYear": null,
+          "birthYear": "1969",
           "deathYear": null
         },
         {
@@ -4049,7 +4049,7 @@
           "name": "盛清",
           "info": "元升公。字水清。1子。生于1972壬子九月初九日。",
           "fatherId": "gen21-r007",
-          "birthYear": null,
+          "birthYear": "1972",
           "deathYear": null
         },
         {
@@ -4057,7 +4057,7 @@
           "name": "盛珲",
           "info": "元阳公。字荣军。娶下回村叶姓氏。1女。生于1974甲寅四月[廿?]日。",
           "fatherId": "gen21-r008",
-          "birthYear": null,
+          "birthYear": "1974",
           "deathYear": null
         },
         {
@@ -4065,7 +4065,7 @@
           "name": "盛杰",
           "info": "元廷公。字立俊。娶本村夏根木公女爱珍氏。1女。生于1972壬子三月十四日。妻子生于1973癸丑十一月廿一日。",
           "fatherId": "gen21-r004",
-          "birthYear": null,
+          "birthYear": "1972",
           "deathYear": null
         }
       ]
@@ -4078,7 +4078,7 @@
           "name": "世裔",
           "info": "盛观公。字森艳。生于1985乙丑四月初三时。",
           "fatherId": "gen22-r002",
-          "birthYear": null,
+          "birthYear": "1985",
           "deathYear": null
         },
         {
@@ -4086,7 +4086,7 @@
           "name": "世孙",
           "info": "世裔公。字子来。生于1997年。",
           "fatherId": "gen23-r001",
-          "birthYear": null,
+          "birthYear": "1997",
           "deathYear": null
         },
         {
@@ -4102,7 +4102,7 @@
           "name": "世欣",
           "info": "盛福公。字建平。生于1994甲戌九月十四日时。",
           "fatherId": "gen22-r005",
-          "birthYear": null,
+          "birthYear": "1994",
           "deathYear": null
         },
         {
@@ -4110,7 +4110,7 @@
           "name": "世繁",
           "info": "盛禧公。字剑波。生于1980年庚申六月二十日午时。",
           "fatherId": "gen22-r007",
-          "birthYear": null,
+          "birthYear": "1980",
           "deathYear": null
         },
         {
@@ -4118,7 +4118,7 @@
           "name": "世衍",
           "info": "盛禧公。字剑芳。生于1985年乙丑八月初四日午时。",
           "fatherId": "gen22-r007",
-          "birthYear": null,
+          "birthYear": "1985",
           "deathYear": null
         },
         {
@@ -4126,7 +4126,7 @@
           "name": "世明",
           "info": "盛禧公。字夏剑。生于1992年壬申十二月初二日时。",
           "fatherId": "gen22-r007",
-          "birthYear": null,
+          "birthYear": "1992",
           "deathYear": null
         },
         {
@@ -4158,7 +4158,7 @@
           "name": "世玉",
           "info": "盛训公。字冬冬。生于1989己巳十一月廿三日。",
           "fatherId": "gen22-r015",
-          "birthYear": null,
+          "birthYear": "1989",
           "deathYear": null
         },
         {
@@ -4166,7 +4166,7 @@
           "name": "世玺",
           "info": "盛溢公。字志豪。生于1997丁丑八月廿一日时。",
           "fatherId": "gen22-r018",
-          "birthYear": null,
+          "birthYear": "1997",
           "deathYear": null
         },
         {
@@ -4174,7 +4174,7 @@
           "name": "世岚",
           "info": "盛北公。字冬兰。生于1974甲寅正月初七日时。",
           "fatherId": "gen22-r026",
-          "birthYear": null,
+          "birthYear": "1974",
           "deathYear": null
         },
         {
@@ -4182,7 +4182,7 @@
           "name": "世璞",
           "info": "盛南公。字夏璞。生于1987年。",
           "fatherId": "gen22-r027",
-          "birthYear": null,
+          "birthYear": "1987",
           "deathYear": null
         },
         {
@@ -4206,7 +4206,7 @@
           "name": "世数",
           "info": "娶本村夏丽英氏。1子1女。生于1964甲辰四月廿四日时。女儿名灵子生于1989。",
           "fatherId": null,
-          "birthYear": null,
+          "birthYear": "1964",
           "deathYear": null
         },
         {
@@ -4214,7 +4214,7 @@
           "name": "世莲",
           "info": "盛辕公。字恋恋。娶麦农山村李立彬公次女。1女。生于1987丁卯年十二月初八日。",
           "fatherId": "gen22-r031",
-          "birthYear": null,
+          "birthYear": "1987",
           "deathYear": null
         },
         {
@@ -4222,7 +4222,7 @@
           "name": "世宾",
           "info": "盛轩公。字叶斌。生于1989己巳年六月十七日。",
           "fatherId": "gen22-r032",
-          "birthYear": null,
+          "birthYear": "1989",
           "deathYear": null
         },
         {
@@ -4230,7 +4230,7 @@
           "name": "世婷",
           "info": "元瓒公。字婷婷。生于1985乙丑四月初六日。",
           "fatherId": "gen21-r049",
-          "birthYear": null,
+          "birthYear": "1985",
           "deathYear": null
         },
         {
@@ -4238,7 +4238,7 @@
           "name": "世笑",
           "info": "盛卫公。字笑笑。生于1996丙子十一月廿六日。",
           "fatherId": "gen22-r043",
-          "birthYear": null,
+          "birthYear": "1996",
           "deathYear": null
         },
         {
@@ -4254,7 +4254,7 @@
           "name": "世颖",
           "info": "盛骑公。字江浩。生于1988戊辰。",
           "fatherId": "gen22-r059",
-          "birthYear": null,
+          "birthYear": "1988",
           "deathYear": null
         },
         {

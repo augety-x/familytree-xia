@@ -642,9 +642,9 @@
         {
           "id": "sf-gen21-yuanhao",
           "name": "元昊",
-          "info": "字华荣。生于1975乙卯八月十三日时。在杭州石油公司工作。",
+          "info": "三多公四子。字华荣。生于1975乙卯八月十三日时。在杭州石油公司工作。",
           "fatherId": "sf-gen20-guangxun",
-          "birthYear": null,
+          "birthYear": "1975",
           "deathYear": null
         },
         {
@@ -652,15 +652,15 @@
           "name": "元晏",
           "info": "三多公次子。字华成。生于1970庚戌十月廿四日。",
           "fatherId": "sf-gen20-guangxun",
-          "birthYear": null,
+          "birthYear": "1970",
           "deathYear": null
         },
         {
           "id": "sf-gen21-yuancheng",
           "name": "元晟",
-          "info": "三多公三子。字业录。生于1973年十二月初一日。在杭州建工医院工作。",
+          "info": "三多公三子。字华峰。生于1973年十二月初一日。在杭州建工医院工作。",
           "fatherId": "sf-gen20-guangxun",
-          "birthYear": null,
+          "birthYear": "1973",
           "deathYear": null
         },
         {
@@ -668,7 +668,7 @@
           "name": "元曇",
           "info": "三多公长子。字夏俊。娶本村夏信洪公三女名华菲。1子。生于1968戊申七月十七日。",
           "fatherId": "sf-gen20-guangxun",
-          "birthYear": null,
+          "birthYear": "1968",
           "deathYear": null
         }
       ]
@@ -679,9 +679,9 @@
         {
           "id": "sf-gen22-shengfeng",
           "name": "盛葑",
-          "info": "元昙公。字嘉斌。生于1994甲戌六月初七日。",
-          "fatherId": "sf-gen21-yuantan",
-          "birthYear": null,
+          "info": "元昊公之子。字嘉斌。生于1994甲戌六月初七日。",
+          "fatherId": "sf-gen21-yuanhao",
+          "birthYear": "1994",
           "deathYear": null
         }
       ]
